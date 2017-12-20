@@ -7,9 +7,11 @@ This is a basic terminal based hangman game
 * Add in hints (Dictionary Defenitions, Synonyms)
 * Add in player rankings
 * Draw actual Hangman
-* Add in levels
+* Add in levels and highscores
+
 
 ## Advanced Todo
+* Make it run on sockets with multi player mode
 * Add in some AI
 * Make into a web application
 
